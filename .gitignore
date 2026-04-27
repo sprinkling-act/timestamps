@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local archives — keep only published .ots and README in the repo
+archive/
+*-WIP*
+*-draft*

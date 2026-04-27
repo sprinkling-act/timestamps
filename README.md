@@ -8,7 +8,7 @@ Each `.ots` file is a portable proof that the corresponding PDF existed at the t
 
 | Report | Zenodo DOI | MD5 | Stamped on | `.ots` file |
 |---|---|---|---|---|
-| EU AI Act Readiness — A Structured Screening of 50 European AI Companies (April 2026) | [10.5281/zenodo.19671329](https://doi.org/10.5281/zenodo.19671329) | `a134924887bcf2450ebc30eb81850ad1` | 2026-04-27 | `eu-ai-act-readiness-report-april-2026.pdf.ots` |
+| EU AI Act Readiness — A Structured Screening of 50 European AI Companies (April 2026) | [10.5281/zenodo.19671328](https://doi.org/10.5281/zenodo.19671328) (concept · resolves to latest version) · v1 [10.5281/zenodo.19671329](https://doi.org/10.5281/zenodo.19671329) · v2 [10.5281/zenodo.19820525](https://doi.org/10.5281/zenodo.19820525) | `a134924887bcf2450ebc30eb81850ad1` | 2026-04-27 | `eu-ai-act-readiness-report-april-2026.pdf.ots` (also co-located with PDF on Zenodo v2) |
 
 The Annex (referenced from the parent report) will be timestamped once finalised and added here.
 

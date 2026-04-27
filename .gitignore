@@ -13,3 +13,6 @@
 archive/
 *-WIP*
 *-draft*
+
+# Pandoc intermediates — only the final .pdf and .ots are committed
+*.html

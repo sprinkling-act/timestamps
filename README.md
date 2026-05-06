@@ -10,7 +10,7 @@ Each `.ots` file is a portable proof that the corresponding PDF existed at the t
 |---|---|---|---|---|
 | EU AI Act Readiness — A Structured Screening of 50 European AI Companies (April 2026) | [10.5281/zenodo.19671328](https://doi.org/10.5281/zenodo.19671328) (concept · resolves to latest version) · v1 [10.5281/zenodo.19671329](https://doi.org/10.5281/zenodo.19671329) · v2 [10.5281/zenodo.19820525](https://doi.org/10.5281/zenodo.19820525) | `a134924887bcf2450ebc30eb81850ad1` | 2026-04-27 | `eu-ai-act-readiness-report-april-2026.pdf.ots` (also co-located with PDF on Zenodo v2) |
 | EU AI Act Readiness — Annex A — The Deployer Multiplier (May 2026) | [10.5281/zenodo.20042175](https://doi.org/10.5281/zenodo.20042175) (concept · resolves to latest version) · v1 [10.5281/zenodo.20042175](https://doi.org/10.5281/zenodo.20042175) | `267d890a29eda0d1c118f06fd75d5fa5` | 2026-05-06 | `eu-ai-act-readiness-report-annex-a-may-2026.pdf.ots` |
-| Sprinkling Act Methodology — Reference Card (April 2026 edition) | <https://sprinklingact.com/methodology> | `1f0c8846673b503270293cfc8b44e6a8` | 2026-04-27 | `sprinkling-act-methodology-april-2026.pdf.ots` |
+| Sprinkling Act Methodology Card — April 2026 edition (v1.1, expanded) | <https://sprinklingact.com/methodology> | `72f75b1a5238001cbe48e457b5761622` | 2026-05-06 | `sprinkling-act-methodology-april-2026.pdf.ots` |
 
 ## How to verify
 

@@ -8,10 +8,10 @@ Each `.ots` file is a portable proof that the corresponding PDF existed at the t
 
 | Report | Public URL / DOI | MD5 | Stamped on | `.ots` file |
 |---|---|---|---|---|
-| EU AI Act Readiness — A Structured Screening of 50 European AI Companies (April 2026) | Concept DOI [10.5281/zenodo.19671328](https://doi.org/10.5281/zenodo.19671328) (resolves to latest version) · v1 [10.5281/zenodo.19671329](https://doi.org/10.5281/zenodo.19671329) · SSRN Abstract ID [6652418](https://ssrn.com/abstract=6652418) · HAL [hal-05631107](https://hal.science/hal-05631107) | `a134924887bcf2450ebc30eb81850ad1` | 2026-04-27 | `eu-ai-act-readiness-report-april-2026.pdf.ots` |
-| EU AI Act Readiness — Annex A — The Deployer Multiplier (May 2026) | Concept DOI [10.5281/zenodo.20042174](https://doi.org/10.5281/zenodo.20042174) (resolves to latest version) · v1 [10.5281/zenodo.20042175](https://doi.org/10.5281/zenodo.20042175) · SSRN Abstract ID [6816018](https://ssrn.com/abstract=6816018) · HAL [hal-05631110](https://hal.science/hal-05631110) | `267d890a29eda0d1c118f06fd75d5fa5` | 2026-05-06 | `eu-ai-act-readiness-report-annex-a-may-2026.pdf.ots` |
+| EU AI Act Readiness — A Structured Screening of 50 European AI Companies (April 2026) | Concept DOI [10.5281/zenodo.19671328](https://doi.org/10.5281/zenodo.19671328) (resolves to latest version) · v1 [10.5281/zenodo.19671329](https://doi.org/10.5281/zenodo.19671329) · SSRN Abstract ID [6652418](https://ssrn.com/abstract=6652418) | `a134924887bcf2450ebc30eb81850ad1` | 2026-04-27 | `eu-ai-act-readiness-report-april-2026.pdf.ots` |
+| EU AI Act Readiness — Annex A — The Deployer Multiplier (May 2026) | Concept DOI [10.5281/zenodo.20042174](https://doi.org/10.5281/zenodo.20042174) (resolves to latest version) · v1 [10.5281/zenodo.20042175](https://doi.org/10.5281/zenodo.20042175) · SSRN Abstract ID [6816018](https://ssrn.com/abstract=6816018) | `267d890a29eda0d1c118f06fd75d5fa5` | 2026-05-06 | `eu-ai-act-readiness-report-annex-a-may-2026.pdf.ots` |
 | The AI Act as a Third Structural Pole — A Constrained Retrospective on the Predictive Frame, 2015 to 2026 (Discussion Paper DP-2026-001, May 2026) | Concept DOI [10.5281/zenodo.20343243](https://doi.org/10.5281/zenodo.20343243) (resolves to latest version) · v1 [10.5281/zenodo.20343244](https://doi.org/10.5281/zenodo.20343244) · SSRN Abstract ID [6815659](https://ssrn.com/abstract=6815659) | `e15914828254f94e50dfe061439d40bd` | 2026-05-22 | `eu-ai-act-third-attractor-may-2026.pdf.ots` |
-| Sprinkling Act Methodology Card — April 2026 edition (v1.1, expanded) | Snapshot of the gate framework at v1.1. The live page now publishes the analysis method at v1.6: <https://sprinklingact.com/methodology> | `72f75b1a5238001cbe48e457b5761622` | 2026-05-06 | `sprinkling-act-methodology-april-2026.pdf.ots` |
+| Sprinkling Act Methodology Card — April 2026 edition (v1.1, expanded) | Snapshot of the gate framework at v1.1. The live page now publishes the analysis method at v1.10: <https://sprinklingact.com/methodology> | `72f75b1a5238001cbe48e457b5761622` | 2026-05-06 | `sprinkling-act-methodology-april-2026.pdf.ots` |
 
 **These documents are stamped, not maintained.** All four predate the August 2026 change of object, and they use the vocabulary of that period. None of them is edited to match the current position: a proof of existence at a date is worth nothing once the text it covers has been rewritten. What moved, and why, is recorded in [`methodology/TRANSITION.md`](https://github.com/sprinkling-act/methodology/blob/main/TRANSITION.md). A stamped file whose hash no longer matches its published PDF would be a defect; the point of this repository is that anyone can check that for themselves, with the commands below.
 
@@ -59,6 +59,31 @@ Each `.ots` file is a portable proof that the corresponding PDF existed at the t
 The `.ots` proof files in this repository are released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (public domain) — they are pure cryptographic artefacts and contain no creative content.
 
 The reports themselves are published on Zenodo under their respective licenses (CC BY 4.0 for the April 2026 report).
+
+## Correction of 11 September 2026 — the HAL identifiers
+
+Until this date the table above carried a HAL identifier for the first two
+publications: `hal-05631107` and `hal-05631110`. Both are removed, and what
+they were is recorded here rather than dropped silently.
+
+Neither identifier resolves. `https://hal.science/hal-05631107` and
+`https://hal.science/hal-05631110` both return 404, the HAL API returns no
+record for either, and a search of that same API by author name returns none.
+No HAL deposit exists, and none appears ever to have been made.
+
+They are removed rather than corrected, because a filing that never happened
+has nothing to correct. This is not an edit to a stamped document: the four
+sealed files are untouched, as the note above requires. What changed is a
+reference column in this README, which has never been part of what the seals
+attest.
+
+Nothing else moved. The Zenodo DOIs, the SSRN identifiers, the MD5
+fingerprints, the seal dates and the `.ots` files are unchanged, and each stays
+verifiable with the commands below, independently of this note.
+
+This repository exists so that a claim can be checked by someone who has no
+reason to trust us. A dead link in the column that attests is the one defect it
+cannot afford, which is why the correction is recorded and not merely applied.
 
 ## Sources
 
